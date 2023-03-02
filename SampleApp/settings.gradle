@@ -1,0 +1,4 @@
+//include ':libsdk', ':libnative', ':prime31wrapper', ':libsdk-release', ':libtracking'
+include ':app'
+//include ':libcordova'
+include ':inapp'

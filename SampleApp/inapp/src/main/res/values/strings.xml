@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="campaign_clicked">Campaign_Clicked</string>
+    <string name="campaign_deleted">Campaign_Deleted</string>
+    <string name="ok">OK</string>
+    <string name="message">Dialog message</string>
+    <string name="title">Dialog Title</string>
+    <string name="test_json">[{\"process\":true,\"state\":false,\"operand\":\"etisalat_shop_quick_links\",\"e_operator\":\"AND\",\"since\":{\"have\":\"h\"},\"category\":\"Events\",\"segment\":{\"check\":{\"SubCategory\":{\"op\":\"eq\",\"v\":\"eLife Home plans\"}}}},{\"process\":true,\"state\":false,\"operand\":\"etisalat_shop_quick_links\",\"e_operator\":\"AND\",\"since\":{\"have\":\"h\"},\"category\":\"Events\",\"segment\":{\"check\":{\"UserType\":{\"op\":\"eq\",\"v\":\"Guest\"}}}}]</string>
+    <string name="cancel">Cancel</string>
+</resources>
